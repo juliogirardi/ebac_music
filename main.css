@@ -1,0 +1,37 @@
+.navbar {
+  font-family: "Arvo", serif;
+  color: white;
+  background-color: #3f2004ee;
+}
+
+#menu .nav .nav-link.active {
+  background-color: rgb(122, 95, 60);
+}
+
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+h2 {
+  font-family: "Arvo", serif;
+  font-weight: 400;
+  font-size: 40px;
+}
+
+h4 {
+  font-family: "Arvo", serif;
+  font-size: 20px;
+}
+
+#contato button {
+  background-color: rgb(122, 95, 60);
+  color: white;
+}
+
+#contato {
+  background-color: rgba(77, 50, 11, 0.13);
+}
